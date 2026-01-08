@@ -1,7 +1,7 @@
 # Drone Multispectral Image Co-registration in R
 
 **Author:** Sofiya Tumanova  
-**Data:** DJI multispectral TIFFs (Red, Green, NIR)  
+**Data:** Multispectral TIFFs (Red, Green, NIR)  
 **Requires:** R >= 4.2, `terra` package  
 
 ---
